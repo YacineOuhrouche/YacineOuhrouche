@@ -11,8 +11,6 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 
 🌐 **Connect with me**:  
 [LinkedIn](https://www.linkedin.com/in/yacine-ouhrouche/)  
-[GitHub](https://github.com/YacineOuhrouche) 
-
 [Website](https://yacineouhrouche.com/)
 
 📧 Email: yacine.ouhrouche04@hotmail.com.com
