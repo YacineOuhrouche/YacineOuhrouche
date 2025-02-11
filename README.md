@@ -13,7 +13,7 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 [LinkedIn](https://www.linkedin.com/in/yacine-ouhrouche/)  
 [Website](https://yacineouhrouche.com/)
 
-📧 Email: yacine.ouhrouche04@hotmail.com.com
+📧 Email: yacine.ouhrouche04@hotmail.com
 
 💻 **Tech Stack**:  
 - **Languages**: C++, Python, Verilog, VHDL, SQL 
