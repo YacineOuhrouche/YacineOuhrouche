@@ -1,8 +1,7 @@
 # Hi 👋 I'm Yacine Ouhrouche
 
 💫 **About Me**:  
-I am an Electrical Engineering student passionate about exploring hardware-software integration, real-time systems, and creating innovative technology solutions. I enjoy designing systems that address real-world problems, particularly in fields like machine learning, embedded systems, and audio processing.
- 
+I am an Electrical Engineering student passionate about exploring hardware-software integration, real-time systems, and creating innovative technology solutions. I enjoy designing systems that address real-world problems, particularly in fields like hardware and electronics. 
 
 ## 🚀 What I’m Currently Working On  
 
@@ -60,9 +59,8 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 
 ---
 
-## 🌍 **Future Goals & Vision**  
-I aim to lead projects at the intersection of AI, embedded systems, and hardware design, creating intelligent systems that solve real-world problems. My focus will be on advancing edge computing, optimizing hardware for AI applications, and developing systems that are not only efficient but responsible and sustainable.
-
----
 
 Let’s collaborate and innovate the future of technology together! 🚀
+
+
+
