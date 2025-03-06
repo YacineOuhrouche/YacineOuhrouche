@@ -50,19 +50,10 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 
 
 
-
-
-# 💯 GitHub Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YacineOuhrouche&theme=radical)
-
----
-
 # 🚀 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineOuhrouche&layout=compact&theme=radical)
 
 ---
-
 
 
