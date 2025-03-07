@@ -48,12 +48,13 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 - **Website**: [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://yacineouhrouche.com/)
 - **Email**: [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yacine.ouhrouche04@hotmail.com)
 
-
+---
 
 # 🚀 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineOuhrouche&layout=compact&theme=radical)
 
----
+
+
 
 
