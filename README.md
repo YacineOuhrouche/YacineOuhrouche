@@ -44,17 +44,21 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 ---
 ## 🌐 **Connect with Me**  
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-ouhrouche/)
-- **Website**: [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://yacineouhrouche.com/)
-- **Email**: [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yacine.ouhrouche04@hotmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacineouhrouche/)
+- [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://yacineouhrouche.com/)
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=email&logoColor=white)](mailto:yacine.ouhrouche04@hotmail.com)
+- 
 
 ---
 
-# 🚀 Top Languages
+# 🚀 GitHub  Top Languages  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineOuhrouche&layout=compact&theme=radical)
 
 
+# 🚀 GitHub Stats 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YacineOuhrouche&theme=tokyonight)  
 
 
 
