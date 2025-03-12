@@ -56,9 +56,6 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineOuhrouche&layout=compact&theme=radical)
 
 
-# 🚀 GitHub Stats 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YacineOuhrouche&theme=tokyonight)  
 
 
 
