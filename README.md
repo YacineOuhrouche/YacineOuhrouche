@@ -4,23 +4,23 @@
 I am an Electrical Engineering student passionate about exploring hardware-software integration, real-time systems, and developing innovative technology solutions. My focus lies in designing embedded systems, signal processing applications, and optimizing hardware for high performance and efficiency.
 
 ---
+
+
 ## 🚀 What I’m Currently Working On  
 
 ### 🔧 **Embedded Systems & Hardware Development**  
-- **Designing & Prototyping**: Developing high-performance embedded systems with optimized hardware and software for real-time applications, low power consumption, and scalability.  
-- **Applications**: Specializing in IoT, autonomous systems, and wearable technologies.
+- Designing real-time embedded systems using microcontrollers and FPGA platforms for performance optimization.
 
-### 🎛 **Signal Processing & Real-Time Audio Systems**  
-- **Advanced Systems**: Implementing noise reduction algorithms and real-time voice changers to enhance communication and virtual meeting experiences.  
-- **Optimization**: Integrating hardware and software to ensure minimal latency and superior audio clarity.
+### 🎛 **Signal Processing & Communication Systems**  
+- Implementing DSP algorithms for audio and communication systems and working on communication protocols for embedded systems.
 
-### 🖨️ **PCB Design & Hardware Integration**  
-- **Tools**: Proficient in Altium and KiCad for designing efficient and reliable PCBs.  
-- **Focus Areas**: Signal integrity, power efficiency, thermal management, and robust hardware integration.
+### 🖨️ **Advanced PCB Design & Power Electronics**  
+- Designing complex PCBs focusing on signal integrity, thermal management, and power-efficient solutions.
 
-### 🖥️ **Computer Architecture & Chip Design**  
-- **Exploration**: Engaging in FPGA design, custom chip architectures, and microprocessor development.  
-- **Optimizations**: Enhancing performance for embedded and real-time computing applications.
+### 🖥️ **FPGA & VLSI Design**  
+- Developing FPGA-based digital logic and learning about VLSI techniques for integrated circuit design.
+
+---
 
 ---
 ## 💻 **Tech Stack**  
@@ -46,3 +46,4 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 ---
 # 🚀 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineOuhrouche&layout=compact&theme=radical)
+
