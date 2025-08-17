@@ -1,28 +1,11 @@
 # Hi 👋 I'm Yacine Ouhrouche
 
 💫 **About Me**  
-I am an Electrical Engineering student passionate about exploring hardware-software integration, real-time systems, and developing innovative technology solutions. My focus lies in designing embedded systems, signal processing applications, and optimizing hardware for high performance and efficiency.
+I am an Electrical Engineering student passionate about exploring hardware design
 
 ---
 
 
-## 🚀 What I’m Currently Working On  
-
-### 🔧 **Embedded Systems & Hardware Development**  
-- Designing real-time embedded systems using microcontrollers and FPGA platforms for performance optimization.
-
-### 🎛 **Signal Processing & Communication Systems**  
-- Implementing DSP algorithms for audio and communication systems and working on communication protocols for embedded systems.
-
-### 🖨️ **Advanced PCB Design & Power Electronics**  
-- Designing complex PCBs focusing on signal integrity, thermal management, and power-efficient solutions.
-
-### 🖥️ **FPGA & VLSI Design**  
-- Developing FPGA-based digital logic and learning about VLSI techniques for integrated circuit design.
-
----
-
----
 ## 💻 **Tech Stack**  
 
 ### **Languages**  
@@ -43,7 +26,5 @@ I am an Electrical Engineering student passionate about exploring hardware-softw
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://yacineouhrouche.com/)  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yacine.ouhrouche04@hotmail.com)  
 
----
-# 🚀 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineOuhrouche&layout=compact&theme=radical)
+
 
