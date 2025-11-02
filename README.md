@@ -5,18 +5,17 @@ I am an Electrical Engineering student passionate about exploring hardware desig
 
 ---
 
-
 ## 💻 **Tech Stack**  
 
 ### **Languages**  
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog&logoColor=white)  ![VHDL](https://img.shields.io/badge/-VHDL-000000?style=flat&logo=vhdl&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog&logoColor=white)  ![VHDL](https://img.shields.io/badge/-VHDL-000000?style=flat&logo=vhdl&logoColor=white)   
 
-### **Embedded Systems & Tools**  
-![KiCad](https://img.shields.io/badge/-KiCad-15648C?style=flat&logo=kicad&logoColor=white)  ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-009FDA?style=flat&logo=altium&logoColor=white)  ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-006A8E?style=flat&logo=stm32&logoColor=white)  ![Vivado](https://img.shields.io/badge/-Vivado-003B5C?style=flat&logo=xilinx&logoColor=white)  ![LTspice](https://img.shields.io/badge/-LTspice-003B5C?style=flat&logo=xilinx&logoColor=white)  
+###  Tools**  
+![KiCad](https://img.shields.io/badge/-KiCad-15648C?style=flat&logo=kicad&logoColor=white)  ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-009FDA?style=flat&logo=altium&logoColor=white)  ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-006A8E?style=flat&logo=stm32&logoColor=white)  ![MATLAB](https://img.shields.io/badge/-Vivado-003B5C?style=flat&logo=xilinx&logoColor=white)  ![LTspice](https://img.shields.io/badge/-LTspice-003B5C?style=flat&logo=xilinx&logoColor=white)  
   
 
 ### **Other Skills**  
-![Computer Architecture](https://img.shields.io/badge/-Computer_Architecture-009C3D?style=flat&logo=altium&logoColor=white)  ![Digital/Analog Circuit Design](https://img.shields.io/badge/-Digital/Analog_Circuit_Design-009C3D?style=flat&logo=altium&logoColor=white)  ![PCB Design](https://img.shields.io/badge/-PCB_Design-009C3D?style=flat&logo=altium&logoColor=white)  ![IoT](https://img.shields.io/badge/-IoT-25D366?style=flat&logo=internet-explorer&logoColor=white)  
+![Computer Architecture](https://img.shields.io/badge/-Computer_Architecture-009C3D?style=flat&logo=altium&logoColor=white)  ![Digital/Analog Circuit Design](https://img.shields.io/badge/-Digital/Analog_Circuit_Design-009C3D?style=flat&logo=altium&logoColor=white)  ![PCB Design](https://img.shields.io/badge/-PCB_Design-009C3D?style=flat&logo=altium&logoColor=white) ![Control System](https://img.shields.io/badge/-PCB_Design-009C3D?style=flat&logo=altium&logoColor=white) 
 
 ---
 ## 🌐 **Connect with Me**  
